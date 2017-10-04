@@ -1,5 +1,5 @@
 /nbproject
 /folder2/*.html
 /folder2/subfolder1/*[0-9].*
-/folder3/*
+folder3/
 !/subfolder2/*
